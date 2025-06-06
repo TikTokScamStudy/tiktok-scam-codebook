@@ -1,6 +1,6 @@
 # TikTok Scam Codebook and Thematic Analysis
 
-This repository contains supporting materials for our submission on scam content and user detection strategies on TikTok. The files in this repository include:
+This repository contains supporting materials for our submission on users' shared experiences of scams on TikTok. The files in this repository include:
 
 ### 📄 `TikTok Scam Study.xlsx`
 - A detailed qualitative codebook with 8 major scam categories and 25+ subtypes
